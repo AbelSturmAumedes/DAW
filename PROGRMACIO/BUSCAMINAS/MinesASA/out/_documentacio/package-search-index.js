@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"minesasa"},{"l":"minesasa.controlador"},{"l":"minesasa.model"},{"l":"minesasa.vista"}];updateSearchResults();

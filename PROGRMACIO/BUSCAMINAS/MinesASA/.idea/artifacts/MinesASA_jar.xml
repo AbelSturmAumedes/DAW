@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MinesASA:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MinesASA_jar</output-path>
+    <root id="archive" name="MinesASA.jar">
+      <element id="module-output" name="MinesASA" />
+    </root>
+  </artifact>
+</component>
